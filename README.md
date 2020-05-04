@@ -2,6 +2,14 @@
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/050/full/egghead-practical-git-course.png" width="300"/></p>
 
+<p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+    
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+    
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</p>
+
 ## About
 
 These notes go along with the [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use) created by [Trevor Miller](https://trevordmiller.com
@@ -56,3 +64,15 @@ In this course, you will learn the basics of using git, as well as some more adv
 - [21 - Remove unnecessary git tracking with .gitignore files](21-Remove-unnecessary-git-tracking-with-gitignore-files.md)
 
 - [22 - Remove all unnecessary git tracking with a global .gitignore file](22-Remove-all-unnecessary-git-tracking-with-a-global-gitignore-file.md)
+
+
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ceoraford"><img src="https://avatars0.githubusercontent.com/u/41582216?s=460&u=83ed3fbb6b1ace73e1416cdef73af239e2746f23&v=4" width="100px;" alt=""/><br /><sub><b>Ceora Ford</b></sub></a><br /><a href="#content-ceoraford" title="Content">🖋</a></td>
+</table>
