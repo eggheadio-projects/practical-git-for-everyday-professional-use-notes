@@ -25,7 +25,7 @@ In this course, you will learn the basics of using git, as well as some more adv
 
 - [02- Copy remote repos to local machines with git clone](02-Copy-remote-repos-to-local-machines-with-git-clone.md)
 
-- [03- Capture code history snapshots with git add/commit/push](03-Capture-code-history-snapshots-with-git-add/commit/push.md)
+- [03- Capture code history snapshots with git add/commit/push](03-Capture-code-history-snapshots-with-git-add.md)
 
 - [04- Document repos with README files](04-Document-repos-with-README-files.md)
 
